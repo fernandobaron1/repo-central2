@@ -1,10 +1,12 @@
 package biblioteca;
 
 public class Usuario {
-	
-	public void cadastrar() {
+	private int id;
+	private String nome;
 
+	public void cadastrar() {
 }
+	
 	public void excluir() {
 	}
 }
